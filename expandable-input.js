@@ -1,5 +1,3 @@
-module.exports = expandableInput
-
 function expandableInput ($) {
   var ExpandableInput = function (el) {
     var $input
